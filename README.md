@@ -64,7 +64,7 @@
 
 | <img src="https://avatars.githubusercontent.com/KDJ97" style="width:50px;"> | <img src="https://avatars.githubusercontent.com/honey7734" style="width:50px;"> | <img src="https://avatars.githubusercontent.com/gudes941" style="width:50px;"> | <img src="https://avatars.githubusercontent.com/SUMIN1541" style="width:50px;"> | <img src="https://avatars.githubusercontent.com/hj300" style="width:50px;"> | <img src="https://avatars.githubusercontent.com/yujeong811" style="width:50px;"> |
 | :--------------: | :------------------------------------------------:  | :------------------------------------------------:  | :------------------------------------------------:  | :------------------------------------------------: | :------------------------------------------------: |
-  |     <a href="https://github.com/KDJ97">**KDJ97**</a>     |   <a href="https://github.com/honey7734">**Honey**</a>  |   <a href="https://github.com/gudes941">**김형돈**</a>  | <a href="https://github.com/ejm111333">**SUMIN1541**</a> | <a href="https://github.com/hj300">**hj300**</a> | <a href="https://github.com/yujeong811">**이유정**</a> |
+  |     <a href="https://github.com/KDJ97">**KDJ97**</a>     |   <a href="https://github.com/honey7734">**Honey**</a>  |   <a href="https://github.com/gudes941">**김형돈**</a>  | <a href="https://github.com/ejm111333">**SUMIN1541**</a> | <a href="https://github.com/hj300">**hj300**</a> | <a href="https://github.com/yujeong811">**yujeong811**</a> |
 |     PL     |     AA     |     TA     |     DA     |     UA     |     BA     |
 
 
